@@ -77,6 +77,30 @@ This live project showcases how Power BI can be used to:
 
 ---
 
+🤝 Community Engagement
+We welcome collaboration and feedback to make this project even better!
+
+🚀 How You Can Contribute:
+💡 Suggest improvements or new features
+
+🐛 Report bugs or inconsistencies in the dashboard or calculations
+
+📈 Share ideas on better forecasting models or inventory KPIs
+
+🧩 Fork the repo and create pull requests with enhancements
+
+📫 Connect with Me:
+Feel free to reach out for collaboration or feedback:
+
+📧 Email: pratyushk276@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/pratyush-kumar-sarangi-baaa63212
+
+🌟 Don’t forget to ⭐ this repo if you found it useful!
+
+📌 Issues and Feedback
+If you face any issue or want to suggest something, head over to the Issues section and let’s improve
+
 ## 📥 Clone This Repo
 
 ```bash
